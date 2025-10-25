@@ -19,7 +19,7 @@
     "url": "https://github.com/maoberlehner/node-sass-glob-importer/issues"
   },
   "dependencies": {
-    "glob": "^7.1.1",
+    "glob": "^7.2.3",
     "unique-concat": "^0.2.2"
   },
   "devDependencies": {
